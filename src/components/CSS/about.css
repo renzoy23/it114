@@ -1,0 +1,32 @@
+/* App.css */
+/* ... (existing styles) */
+
+
+.about-us-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 20px;
+  }
+
+  .about-column {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .column img {
+    max-width: 100%;
+    height: auto;
+    margin-left: 65px;
+  }
+
+  p {
+    margin-top: 30px;
+  }
+  
+  /* ... (existing styles) */
+  
